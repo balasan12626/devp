@@ -2,4 +2,12 @@ streamlit
 crewai
 langchain
 langchain-community
+langchainhub
+python-dotenv
+grok
+bs4
+beautifulsoup4
+requests
+pandas
+openai
 openai
