@@ -5,9 +5,11 @@ langchain-community
 langchainhub
 python-dotenv
 grok
-bs4
 beautifulsoup4
 requests
 pandas
 openai
-openai
+chromadb
+streamlit==1.32.2
+crewai==0.22.2
+chromadb==0.4.24
